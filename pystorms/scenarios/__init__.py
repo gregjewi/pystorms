@@ -3,6 +3,8 @@ from .alpha import alpha
 from .beta import beta
 from .epsilon import epsilon
 from .gamma import gamma
+from .gamma_1yr_volume_halved import gamma_1yr_volume_halved
+from .gamma_volume_halved import gamma_volume_halved
 from .theta import theta
 from .delta import delta
 from .zeta import zeta
